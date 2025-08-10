@@ -1,11 +1,21 @@
-# HD:Ai 
+# HD:Ai Setup & Usage Guide
 
-## Installation Guide
+## Installation
 
-### Install the following Python packages:
+1. Open and run the file `Install Packages.py`.  
+2. Wait for the installation process to complete.  
 
-pip install opencv-python torch torchvision torchaudio seaborn ultralytics mss PyQt5 pywin32 Keyboard
+## Running Scripts
+
+- After installation, you can run the Python scripts located in the `scripts` folder.
+
+## Using Aim Assists
+
+1. Open and run the file `Install Packages.py`.  
+2. Wait for the installation to finish.  
+3. Run the Aim Assist script.  
+4. Press **F6** to toggle Aim Lock on or off.
 
 ---
 
-Note: Run the above commands in your Command Prompt or terminal to set up TDetect properly.
+**Note:** Make sure to run these commands in your Command Prompt or terminal to set up TDetect correctly.
