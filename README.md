@@ -7,7 +7,7 @@
 
 ## Running Scripts
 
-- After installation, you can run the Python scripts located in the `scripts` folder.
+- After installation, you can run the Python scripts 
 
 ## Using Aim Assists
 
